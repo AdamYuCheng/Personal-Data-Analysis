@@ -7,7 +7,7 @@ Here is my analysis of 106 Q2 public company in eps, operation income, net profi
 
 I think we can get some investment or career information in taiwan from the public eps data.
 
-The more detail you can see my analysis. These analysis are just my personal analysis for every one reference, not for the investment or career suggestion. If you need any career or investiment suggestion, please ask professional financial consultant.
+The more detail you can see my analysis. These analysis are just my personal analysis for everyone reference, not for the investment or career suggestion. If you need any career or investiment suggestion, please ask professional financial consultant.
 
 Thanks!
 
