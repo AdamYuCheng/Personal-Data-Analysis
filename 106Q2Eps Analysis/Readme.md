@@ -1,5 +1,5 @@
 
-# 106 Q2 Taiwan Public Company Analysis
+# 106 Q2 Taiwan Public Companies Analysis
 
 Here is my analysis of 106 Q2 public company in eps, operation income, net profit after tax. The data is from taiwan market observation post system.
 
