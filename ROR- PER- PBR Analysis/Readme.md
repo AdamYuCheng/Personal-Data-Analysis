@@ -4,6 +4,7 @@ Here are some analysis which want to find the companies that have the good perfo
 Just for fun.
 
 Data Date: 106/8/30
+
 From: Taiwan Stock Exchange Corporation
 
 *Adam*
