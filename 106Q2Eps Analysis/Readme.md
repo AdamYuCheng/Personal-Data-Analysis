@@ -3,7 +3,7 @@
 
 Here is my analysis of 106 Q2 public company in eps, operation income, net profit after tax. The data is from taiwan market observation post system.
 
-**The question I would like to find the answer is: Which industry have the best perfomance in taiwan?**
+**Here the question I would like to find the answer is: Which industry have the best perfomance in taiwan?**
 
 I think we can get some investment or career information in taiwan from the public eps data.
 
