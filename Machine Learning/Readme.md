@@ -7,4 +7,4 @@ Here are some notes in machine learning assorted from me:
 
 To be updated...
 
-**AdamChang**
+*AdamChang*
