@@ -17,6 +17,6 @@ Thanks!
 1. 106 Q2 Public Companies EPS Ananlysis
   Overview taiwan all industries value in the public financial market.
 2. 106 8/30 Public Companies ROR,PER,PBR Analysis
-  Analysis all public companie' ROR,PER,PBR.
+  Analysis all public companie's ROR,PER,PBR.
   
 To be updated...
