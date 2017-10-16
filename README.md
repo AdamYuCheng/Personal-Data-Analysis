@@ -6,7 +6,7 @@ Some are notes and practice after learning some information from internet or tex
 
 Some are data analysis from the open data. 
 
-If you are intereted in any case in my collection, please feel free to discuss with me.
+Let us enjoy playing the data and use it in real world.
 
 Thanks!
 
