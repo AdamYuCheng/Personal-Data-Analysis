@@ -20,7 +20,7 @@ Thanks!
   Analysis all public companie's ROR,PER,PBR.
 3. Roulette Winning Rate Analysis  
   Analysis the probability and strategies of roulette game.  
-4. TAIEX Analysis
+4. TAIEX Analysis  
   Summary the relationship of 0050, tsmc, taiex  
   
   
